@@ -1,0 +1,5 @@
+Lipo charger circuit (TP4056) board found on GrabCAD.
+All credits reserved to John-772 -> https://grabcad.com/john-772
+
+Files hosting location :
+https://grabcad.com/library/mt3608-dc-to-dc-boost-converter-2-a-1

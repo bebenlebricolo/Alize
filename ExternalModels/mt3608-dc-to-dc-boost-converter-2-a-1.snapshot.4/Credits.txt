@@ -1,0 +1,5 @@
+MT3608 DC DC Boost converter found on GrabCAD.
+All credits reserved to Robottronic -> https://grabcad.com/robottronic-1
+
+Files hosting location :
+https://grabcad.com/library/mt3608-dc-to-dc-boost-converter-2-a-1
