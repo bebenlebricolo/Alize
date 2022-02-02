@@ -1,0 +1,10 @@
+# FreeCAD files
+*.FCStd1
+
+# LTSpice files
+*.log
+*.net
+*.op.raw
+*.raw
+
+
